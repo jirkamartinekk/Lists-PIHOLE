@@ -20,6 +20,7 @@ metrics.brightcove.com
 s.innovid.com
 tremorhub.com
 ads.tremorhub.com
+smartclip.com
 
 # ========================================
 # OEM VENDORS
@@ -29,6 +30,8 @@ iadsdk.apple.com
 xp.apple.com
 ngfts.lge.com
 vortex.data.microsoft.com
+advertising.apple.com
+ads.huawei.com
 
 # ========================================
 # SOCIÁLNÍ SÍTĚ A DALŠÍ
@@ -43,6 +46,17 @@ snap.licdn.com
 analytics.twitter.com
 analytics.pinterest.com
 widgets.pinterest.com
+pixel.quora.com
+qevents.quora.com
+ads.vk.com
+analytics.x.com
+ads.x.com
+ads-api.tiktok.com
+ads-sg.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+ads.pinterest.com
+tr.facebook.com
 
 # ========================================
 # DATADOG
@@ -60,6 +74,7 @@ adjust.com
 bnc.lt
 kochava.com
 control.kochava.com
+fingerprintjs.com
 
 # ========================================
 # AFFILIATE NETWORKS
@@ -77,6 +92,8 @@ go.skimresources.com
 redirector.skimresources.com
 go.redirectingat.com
 redirect.viglink.com
+cdn.viglink.com
+api.viglink.com
 
 # ========================================
 # EMAIL TRACKING & LIVE CHAT
@@ -127,17 +144,41 @@ tagmanager.google.com
 www.googletagmanager.com
 api.segment.io
 quantcast.com
+app.posthog.com
+snowplowanalytics.com
+quantserve.com
+click.googleanalytics.com
+metrika.yandex.ru
+appmetrica.yandex.ru
 
 # ========================================
 # YAHOO & AD VERIFICATION
 # ========================================
 udc.yahoo.com
 doubleverify.com
+ads.yahoo.com
+udcm.yahoo.com
+advertising.yahoo.com
+partnerads.ysm.yahoo.com
+log.fc.yahoo.com
+gemini.yahoo.com
+adtech.yahooinc.com
 
 # ========================================
-# MAGNITE / RUBICON / SPOTX
+# EXCHANGES, MAGNITE, RUBICON & OSTATNÍ ADS
 # ========================================
 rubiconproject.com
+indexexchange.com
+cdn.indexexchange.com
+mads-eu.amazon.com
+advertising-api-eu.amazon.com
+inmobi.com
+ironsource.mobi
+pangleglobal.com
+juicyads.com
+ads.microsoft.com
+c.bing.com
+advertising.yandex.ru
 
 # ========================================
 # GOOGLE ADS, DOUBLECLICK & YOUTUBE
@@ -147,3 +188,5 @@ googleadservices.com
 ad.doubleclick.net
 s.youtube.com
 redirector.googlevideo.com
+m.doubleclick.net
+mediavisor.doubleclick.net
