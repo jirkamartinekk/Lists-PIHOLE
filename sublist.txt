@@ -1,0 +1,149 @@
+# Pi-hole Sub-Blocklist
+# Title: Custom Ads, Tracking & Analytics Blocklist
+# Description: Seznam blokující video reklamy, telemetrii, sociální pixely, affiliate sítě a další trackery.
+# Date: 2026-09-17
+
+# ========================================
+# VIDEO ADS
+# ========================================
+dai.google.com
+g.jwpsrv.com
+ssl.p.jwpcdn.com
+prd.jwpltx.com
+mssl.fwmrm.net
+bea4.v.fwmrm.net
+2975c.v.fwmrm.net
+cd.connatix.com
+capi.connatix.com
+vid.connatix.com
+metrics.brightcove.com
+s.innovid.com
+tremorhub.com
+ads.tremorhub.com
+
+# ========================================
+# OEM VENDORS
+# ========================================
+tr.iadsdk.apple.com
+iadsdk.apple.com
+xp.apple.com
+ngfts.lge.com
+vortex.data.microsoft.com
+
+# ========================================
+# SOCIÁLNÍ SÍTĚ A DALŠÍ
+# ========================================
+pixel.facebook.com
+an.facebook.com
+connect.facebook.net
+graph.facebook.com
+graph.instagram.com
+i.instagram.com
+snap.licdn.com
+analytics.twitter.com
+analytics.pinterest.com
+widgets.pinterest.com
+
+# ========================================
+# DATADOG
+# ========================================
+browser-intake-datadoghq.com
+
+# ========================================
+# TRACKING & FINGERPRINTING
+# ========================================
+siftscience.com
+app.appsflyer.com
+appsflyer.com
+app.adjust.com
+adjust.com
+bnc.lt
+kochava.com
+control.kochava.com
+
+# ========================================
+# AFFILIATE NETWORKS
+# ========================================
+www.anrdoezrs.net
+www.dpbolvw.net
+www.tkqlhce.com
+shareasale.com
+click.linksynergy.com
+www.awin1.com
+zenaps.com
+prf.hn
+t.pepperjamnetwork.com
+go.skimresources.com
+redirector.skimresources.com
+go.redirectingat.com
+redirect.viglink.com
+
+# ========================================
+# EMAIL TRACKING & LIVE CHAT
+# ========================================
+click.mailchimp.com
+widget.intercom.io
+sdk.iad-01.braze.com
+cdn.onesignal.com
+api.onesignal.com
+static.klaviyo.com
+a.klaviyo.com
+customer.io
+track.customer.io
+
+# ========================================
+# A/B TESTING
+# ========================================
+cdn.optimizely.com
+cdn.dynamicyield.com
+st.dynamicyield.com
+clientstream.launchdarkly.com
+
+# ========================================
+# CONSENT MANAGEMENT
+# ========================================
+cdn.cookielaw.org
+geolocation.onetrust.com
+privacyportal.onetrust.com
+consent.cookiebot.com
+consentcdn.cookiebot.com
+cookiebot.com
+consent.trustarc.com
+sdk.privacy-center.org
+cdn.privacy-mgmt.com
+app.usercentrics.eu
+cmp.inmobi.com
+cmp.osano.com
+fundingchoicesmessages.google.com
+
+# ========================================
+# ANALYTICS
+# ========================================
+api.amplitude.com
+eu.posthog.com
+us.i.posthog.com
+rudderstack.com
+tagmanager.google.com
+www.googletagmanager.com
+api.segment.io
+quantcast.com
+
+# ========================================
+# YAHOO & AD VERIFICATION
+# ========================================
+udc.yahoo.com
+doubleverify.com
+
+# ========================================
+# MAGNITE / RUBICON / SPOTX
+# ========================================
+rubiconproject.com
+
+# ========================================
+# GOOGLE ADS, DOUBLECLICK & YOUTUBE
+# ========================================
+adservice.google.com
+googleadservices.com
+ad.doubleclick.net
+s.youtube.com
+redirector.googlevideo.com
